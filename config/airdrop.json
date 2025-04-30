@@ -1,0 +1,27 @@
+{
+    "name": "Mode Airdrop Config",
+    "epochStartTime": 1714521600,
+    "epochEndTime": 1746057600,
+    "AirdropTotal": 200000,
+    "TradingRate": 1,
+    "LiquidityRate": 0.000023148148148148147,
+    "ReferralRate": 0.5,
+    "ProfitRate": 0.1,
+    "SwapRate": 0.5,
+    "user": [
+        "0x17c1b4F4F28C84F4C2CCA2Ed672CD8cE9E590407",
+        "0x626aba32e69Df9a2d4A4Db1ad7E9C74c513326Ca",
+        "0x4F9D6489F7747A2e46b30444df073d54b76bdCbd",
+        "0x1Ce32739c33Eecb06dfaaCa0E42bd04E56CCbF0d",
+        "0xd58495584669f0b752d87e918AfB36a4C410efA3",
+        "0x577b8b6369b2ce2e1D099406d95f348ff7492E29",
+        "0x0c247d2002d745CDC3FeA26508c884d70c84Fe06",
+        "0xD625fe5E094034f1deF378E469F191BC79e5da6F"
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 6
+    }
+  }
+  

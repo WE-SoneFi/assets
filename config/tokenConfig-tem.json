@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "TOKENS": [
+    {
+      "name": "WLD",
+      "symbol": "WLD",
+      "metamaskSymbol": "WLD",
+      "priceDecimals": 4,
+      "decimals": 18,
+      "address": "0x7E971C9633CCCc3276d49D454E4e7bAA0c125d69",
+      "imageUrl": "",
+      "pricesIdsName": "WLD",
+      "pricesIds": "d6835ad1f773de4a378115eb6824bd0c0e42d84d1c84d9750e853fb6b6c7794a",
+      "isV1Available": true,
+      "isV2Available": true,
+      "type": "ai",
+      "isTrade": true,
+      "K_LINE_SYMBOLNAME": "Crypto.WLD/USD"
+    }
+  ]
+}
