@@ -107,7 +107,6 @@
       "name": "ASTR",
       "symbol": "ASTR",
       "decimals": 18,
-      "tag": "Top",
       "logoURI": "https://coin-images.coingecko.com/coins/images/22617/large/astr.png?1696521933"
     },
     {
@@ -116,7 +115,6 @@
       "name": "nrETH",
       "symbol": "nrETH",
       "decimals": 18,
-      "tag": "Top",
       "logoURI": "https://img.sonex.so/nrETH-logo.png"
     },
     {
@@ -125,7 +123,6 @@
       "name": "nsASTR",
       "symbol": "nsASTR",
       "decimals": 18,
-      "tag": "Top",
       "logoURI": "https://assets.coingecko.com/coins/images/53907/standard/nsASTR_2x.png?1737707599g"
     },
     {
@@ -134,7 +131,6 @@
       "name": "USDC.e",
       "symbol": "USDC.e",
       "decimals": 6,
-      "tag": "Top",
       "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
     },
     {
@@ -143,7 +139,6 @@
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 6,
-      "tag": "Top",
       "logoURI": "https://indigo-due-spoonbill-732.mypinata.cloud/ipfs/bafkreihlyjl5vfbc6n3kacz2snkt64eakmfgrogfiss3cgicpv6szoad3a"
     },
     {
@@ -152,7 +147,6 @@
       "name": "vASTR",
       "symbol": "vASTR",
       "decimals": 18,
-      "tag": "Top",
       "logoURI": "https://assets.coingecko.com/coins/images/34706/standard/vASTR.png?1705893008"
     },
     {
@@ -161,7 +155,6 @@
       "name": "WETH",
       "symbol": "WETH",
       "decimals": 18,
-      "tag": "Top",
       "logoURI": "https://token-icons.s3.amazonaws.com/eth.png"
     },
     {
@@ -170,7 +163,6 @@
       "name": "xnASTR",
       "symbol": "xnASTR",
       "decimals": 18,
-      "tag": "Top",
       "logoURI": "https://indigo-due-spoonbill-732.mypinata.cloud/ipfs/bafybeia4i7qatyfpuitwmjdvu5bz5qw2ge7yviruwjzibh5q7m2m3opn3y"
     },
     {
@@ -179,7 +171,6 @@
       "name": "ASTR",
       "symbol": "ASTR",
       "decimals": 18,
-      "tag": "DeFi, Top",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/astr.png"
     },
     {
@@ -188,7 +179,6 @@
       "name": "SOE",
       "symbol": "SOE",
       "decimals": 18,
-      "tag": "DeFi, Top",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/soe.svg"
     },
     {
@@ -197,7 +187,6 @@
       "name": "USDC.s",
       "symbol": "USDC.s",
       "decimals": 6,
-      "tag": "Top",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/usdc.png"
     },
     {
@@ -206,7 +195,6 @@
       "name": "USDT.s",
       "symbol": "USDT.s",
       "decimals": 6,
-      "tag": "Top",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/usdt.png"
     },
     {
@@ -215,7 +203,6 @@
       "name": "WBTC.s",
       "symbol": "WBTC.s",
       "decimals": 18,
-      "tag": "Top",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/btc.png"
     },
     {
@@ -224,7 +211,6 @@
       "name": "WETH",
       "symbol": "WETH",
       "decimals": 18,
-      "tag": "Top",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/weth.png"
     },
     {
@@ -233,7 +219,6 @@
       "name": "WETH.s",
       "symbol": "WETH.s",
       "decimals": 18,
-      "tag": "Top",
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/weth.png"
     },
     {
@@ -242,7 +227,6 @@
       "name": "cbBTC",
       "symbol": "cbBTC",
       "decimals": 8,
-      "tag": "Top",
       "logoURI": "https://assets.coingecko.com/coins/images/40143/standard/cbbtc.webp?1726136727"
     },
     {
@@ -251,7 +235,6 @@
       "name": "oUSDT",
       "symbol": "oUSDT",
       "decimals": 6,
-      "tag": "Top",
       "logoURI": "https://assets.coingecko.com/coins/images/54815/standard/ousdt.jpg?1741848258"
     },
     {
@@ -260,7 +243,6 @@
       "name": "SUPR",
       "symbol": "SUPR",
       "decimals": 18,
-      "tag": "Top",
       "logoURI": "https://indigo-due-spoonbill-732.mypinata.cloud/ipfs/bafkreidz5lh4dqekqopmw5la6pctkwcpmftbbhbw2vdmv5x2oug5rmwcfe"
     },
     {
@@ -269,7 +251,6 @@
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
-      "tag": "Top",
       "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
     },
     {
@@ -278,7 +259,6 @@
       "name": "WETH",
       "symbol": "WETH",
       "decimals": 18,
-      "tag": "Top",
       "logoURI": "https://token-icons.s3.amazonaws.com/eth.png"
     },
     {
