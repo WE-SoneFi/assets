@@ -1,0 +1,381 @@
+{
+  "name": "weconomy Default",
+  "timestamp": "2025-05-06T14:50:41.062Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://weconomy.network//assets/favicon-a1b0eefa.png",
+  "keywords": [
+    "weconomy",
+    "default"
+  ],
+  "tokens": [
+    {
+      "address": "0x5B0aC6194499621630ddebb30c4aBE37037b30Ec",
+      "chainId": 570,
+      "name": "DAI",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x5B0aC6194499621630ddebb30c4aBE37037b30Ec/logo.png"
+    },
+    {
+      "address": "0x6AaEE51366F8435e1Ad527F5Ecdc276bF1dc0b86",
+      "chainId": 570,
+      "name": "LUXY",
+      "symbol": "LUXY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x6AaEE51366F8435e1Ad527F5Ecdc276bF1dc0b86/logo.png"
+    },
+    {
+      "address": "0x48023b16c3e81AA7F6eFFbdEB35Bb83f4f31a8fd",
+      "chainId": 570,
+      "name": "Pegasys",
+      "symbol": "PSYS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x48023b16c3e81AA7F6eFFbdEB35Bb83f4f31a8fd/logo.png"
+    },
+    {
+      "address": "0x8180fd40Aa2C7f9c70ff461Ac99C448580139270",
+      "chainId": 570,
+      "name": "SKIBIDI TOILET",
+      "symbol": "SKBD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x8180fd40Aa2C7f9c70ff461Ac99C448580139270/logo.png"
+    },
+    {
+      "address": "0x3390108E913824B8eaD638444cc52B9aBdF63798",
+      "chainId": 570,
+      "name": "SuperDapp",
+      "symbol": "SUPR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x3390108E913824B8eaD638444cc52B9aBdF63798/logo.png"
+    },
+    {
+      "address": "0x570baA32dB74279a50491E88D712C957F4C9E409",
+      "chainId": 570,
+      "name": "UnoRe",
+      "symbol": "UNO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x570baA32dB74279a50491E88D712C957F4C9E409/logo.png"
+    },
+    {
+      "address": "0x368433CaC2A0B8D76E64681a9835502a1f2A8A30",
+      "chainId": 570,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x368433CaC2A0B8D76E64681a9835502a1f2A8A30/logo.png"
+    },
+    {
+      "address": "0x28c9c7Fb3fE3104d2116Af26cC8eF7905547349c",
+      "chainId": 570,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x28c9c7Fb3fE3104d2116Af26cC8eF7905547349c/logo.png"
+    },
+    {
+      "address": "0x2A4DC2e946b92AB4a1f7D62844EB237788F9056c",
+      "chainId": 570,
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x2A4DC2e946b92AB4a1f7D62844EB237788F9056c/logo.png"
+    },
+    {
+      "address": "0xaA1c53AFd099E415208F47FCFA2C880f659E6904",
+      "chainId": 570,
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0xaA1c53AFd099E415208F47FCFA2C880f659E6904/logo.png"
+    },
+    {
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 570,
+      "name": "Wrapped Syscoin",
+      "symbol": "WSYS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x4200000000000000000000000000000000000006/logo.png"
+    },
+    {
+      "chainId": 1868,
+      "address": "0x2CAE934a1e84F693fbb78CA5ED3B0A6893259441",
+      "name": "ASTR",
+      "symbol": "ASTR",
+      "decimals": 18,
+      "tag": "Top",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/22617/large/astr.png?1696521933"
+    },
+    {
+      "chainId": 1868,
+      "address": "0x2fc9a87b1ef46dCDdF4801C36d752E0d5F243E4b",
+      "name": "nrETH",
+      "symbol": "nrETH",
+      "decimals": 18,
+      "tag": "Top",
+      "logoURI": "https://img.sonex.so/nrETH-logo.png"
+    },
+    {
+      "chainId": 1868,
+      "address": "0xc67476893C166c537afd9bc6bc87b3f228b44337",
+      "name": "nsASTR",
+      "symbol": "nsASTR",
+      "decimals": 18,
+      "tag": "Top",
+      "logoURI": "https://assets.coingecko.com/coins/images/53907/standard/nsASTR_2x.png?1737707599g"
+    },
+    {
+      "chainId": 1868,
+      "address": "0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369",
+      "name": "USDC.e",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "tag": "Top",
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
+    },
+    {
+      "chainId": 1868,
+      "address": "0x3A337a6adA9d885b6Ad95ec48F9b75f197b5AE35",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "tag": "Top",
+      "logoURI": "https://indigo-due-spoonbill-732.mypinata.cloud/ipfs/bafkreihlyjl5vfbc6n3kacz2snkt64eakmfgrogfiss3cgicpv6szoad3a"
+    },
+    {
+      "chainId": 1868,
+      "address": "0x60336f9296C79dA4294A19153eC87F8E52158e5F",
+      "name": "vASTR",
+      "symbol": "vASTR",
+      "decimals": 18,
+      "tag": "Top",
+      "logoURI": "https://assets.coingecko.com/coins/images/34706/standard/vASTR.png?1705893008"
+    },
+    {
+      "chainId": 1868,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "tag": "Top",
+      "logoURI": "https://token-icons.s3.amazonaws.com/eth.png"
+    },
+    {
+      "chainId": 1868,
+      "address": "0xea1e08A176528e2d7250a6F7001F18EDF0CaeCF0",
+      "name": "xnASTR",
+      "symbol": "xnASTR",
+      "decimals": 18,
+      "tag": "Top",
+      "logoURI": "https://indigo-due-spoonbill-732.mypinata.cloud/ipfs/bafybeia4i7qatyfpuitwmjdvu5bz5qw2ge7yviruwjzibh5q7m2m3opn3y"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x26e6f7c7047252DdE3dcBF26AA492e6a264Db655",
+      "name": "ASTR",
+      "symbol": "ASTR",
+      "decimals": 18,
+      "tag": "DeFi, Top",
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/astr.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x5bD7A9D2328EFF28ba3261dD81CB3f4e4FDF221e",
+      "name": "SOE",
+      "symbol": "SOE",
+      "decimals": 18,
+      "tag": "DeFi, Top",
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/soe.svg"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x6F405A7fdc7b4B1Ffad1C821a6bA89f13b48c4F3",
+      "name": "USDC.s",
+      "symbol": "USDC.s",
+      "decimals": 6,
+      "tag": "Top",
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/usdc.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x97368885747176170506A65C0096b91236b744e7",
+      "name": "USDT.s",
+      "symbol": "USDT.s",
+      "decimals": 6,
+      "tag": "Top",
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/usdt.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x8cce37e4a9752dd313c5F842Da3e57C7a1519D92",
+      "name": "WBTC.s",
+      "symbol": "WBTC.s",
+      "decimals": 18,
+      "tag": "Top",
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/btc.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "tag": "Top",
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/weth.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x0AC1CC398342Aab9f8fFE43dD578B2dF59ceEa5E",
+      "name": "WETH.s",
+      "symbol": "WETH.s",
+      "decimals": 18,
+      "tag": "Top",
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/weth.png"
+    },
+    {
+      "chainId": 5330,
+      "address": "0x6f36DBD829DE9b7e077DB8A35b480d4329ceB331",
+      "name": "cbBTC",
+      "symbol": "cbBTC",
+      "decimals": 8,
+      "tag": "Top",
+      "logoURI": "https://assets.coingecko.com/coins/images/40143/standard/cbbtc.webp?1726136727"
+    },
+    {
+      "chainId": 5330,
+      "address": "0x1217BfE6c773EEC6cc4A38b5Dc45B92292B6E189",
+      "name": "oUSDT",
+      "symbol": "oUSDT",
+      "decimals": 6,
+      "tag": "Top",
+      "logoURI": "https://assets.coingecko.com/coins/images/54815/standard/ousdt.jpg?1741848258"
+    },
+    {
+      "chainId": 5330,
+      "address": "0x6EA1fFcbD7F5D210dB07D9E773862B0512fA219B",
+      "name": "SUPR",
+      "symbol": "SUPR",
+      "decimals": 18,
+      "tag": "Top",
+      "logoURI": "https://indigo-due-spoonbill-732.mypinata.cloud/ipfs/bafkreidz5lh4dqekqopmw5la6pctkwcpmftbbhbw2vdmv5x2oug5rmwcfe"
+    },
+    {
+      "chainId": 5330,
+      "address": "0xC316C8252B5F2176d0135Ebb0999E99296998F2e",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "tag": "Top",
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
+    },
+    {
+      "chainId": 5330,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "tag": "Top",
+      "logoURI": "https://token-icons.s3.amazonaws.com/eth.png"
+    },
+    {
+      "address": "0xe5fAcECcF0AC8c860fF09B7E627cAaFbF427Fe20",
+      "chainId": 5701,
+      "name": "Pegasys",
+      "symbol": "PSYS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/5701/0xe5fAcECcF0AC8c860fF09B7E627cAaFbF427Fe20/logo.png"
+    },
+    {
+      "address": "0xDf2D98DCcF84180ceB337475fcadD0003ea14E2E",
+      "chainId": 5701,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/5701/0xDf2D98DCcF84180ceB337475fcadD0003ea14E2E/logo.png"
+    },
+    {
+      "address": "0xfC25fa595Ef72210d429B3f5913834Df40C98cC5",
+      "chainId": 5701,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/5701/0xfC25fa595Ef72210d429B3f5913834Df40C98cC5/logo.png"
+    },
+    {
+      "address": "0x22E34A7511a82729961A0812108C592361237008",
+      "chainId": 5701,
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/5701/0x22E34A7511a82729961A0812108C592361237008/logo.png"
+    },
+    {
+      "address": "0x8BBb86D74e11C388913000f598A8C0F6B9e35055",
+      "chainId": 5701,
+      "name": "Wrapped Syscoin",
+      "symbol": "WSYS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/5701/0x8BBb86D74e11C388913000f598A8C0F6B9e35055/logo.png"
+    },
+    {
+      "address": "0xccA991E1Bdca2846640d366116d60BC25C2815db",
+      "chainId": 57000,
+      "name": "DAI",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/57000/0xccA991E1Bdca2846640d366116d60BC25C2815db/logo.png"
+    },
+    {
+      "address": "0x817C777DEf2Fd6ffE2492C6CD124985C78Ee9235",
+      "chainId": 57000,
+      "name": "Pegasys",
+      "symbol": "PSYS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/57000/0x817C777DEf2Fd6ffE2492C6CD124985C78Ee9235/logo.png"
+    },
+    {
+      "address": "0x2Be160796F509CC4B1d76fc97494D56CF109C3f1",
+      "chainId": 57000,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/57000/0x2Be160796F509CC4B1d76fc97494D56CF109C3f1/logo.png"
+    },
+    {
+      "address": "0xb97915AED8B5996dE24Ce760EC8DE5A91E820dF7",
+      "chainId": 57000,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/57000/0xb97915AED8B5996dE24Ce760EC8DE5A91E820dF7/logo.png"
+    },
+    {
+      "address": "0xcDa164cb93979d714CC8B0D3e1ab829E81469649",
+      "chainId": 57000,
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/57000/0xcDa164cb93979d714CC8B0D3e1ab829E81469649/logo.png"
+    },
+    {
+      "address": "0x96e1988e3753584357A20857602eE6b072A3D5Bf",
+      "chainId": 57000,
+      "name": "Wrapped Ethereum",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/57000/0x96e1988e3753584357A20857602eE6b072A3D5Bf/logo.png"
+    },
+    {
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 57000,
+      "name": "Wrapped Syscoin",
+      "symbol": "WSYS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/57000/0x4200000000000000000000000000000000000006/logo.png"
+    }
+  ]
+}
