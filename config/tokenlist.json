@@ -68,6 +68,24 @@
       "symbol": "WETH.s",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/feat/MinatoTestnet/assets/weth.png"
+    },
+    
+      "chainId": 50312,
+      "address": "0x4A3BC48C156384f9564Fd65A53a2f3D534D8f2b7",
+      "name": "WSTT",
+      "symbol": "WSTT",
+      "decimals": 18,
+      "tag": "Top",
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/refs/heads/feat/Somnex/assets/wstt.png"
+    },
+    {
+      "chainId": 50312,
+      "address": "0x0621c8C9Fc239980650487d2B36D35FE6BE1b727",
+      "name": "USDT.x",
+      "symbol": "USDT.x",
+      "decimals": 6,
+      "tag": "Top",
+      "logoURI": "https://assets.coingecko.com/coins/images/52913/standard/usdt.jpg?1734677175"
     }
   ]
 }
