@@ -1,0 +1,35 @@
+{
+  "name": "weconomy Default",
+  "timestamp": "2025-05-17T14:50:41.062Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 2
+  },
+  "tags": {},
+  "logoURI": "https://weconomy.network//assets/favicon-a1b0eefa.png",
+  "keywords": [
+    "weconomy",
+    "default"
+  ],
+  "tokens": [
+    {
+      "chainId": 50312,
+      "address": "0x4A3BC48C156384f9564Fd65A53a2f3D534D8f2b7",
+      "name": "WSTT",
+      "symbol": "WSTT",
+      "decimals": 18,
+      "tag": "Top",
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/refs/heads/feat/Somnex/assets/wstt.png"
+    },
+    {
+      "chainId": 50312,
+      "address": "0x0621c8C9Fc239980650487d2B36D35FE6BE1b727",
+      "name": "USDT.x",
+      "symbol": "USDT.x",
+      "decimals": 6,
+      "tag": "Top",
+      "logoURI": "https://assets.coingecko.com/coins/images/52913/standard/usdt.jpg?1734677175"
+    }
+  ]
+}
